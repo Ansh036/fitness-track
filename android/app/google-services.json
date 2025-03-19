@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569517445383",
+    "project_id": "fitnesstrack-736e5",
+    "storage_bucket": "fitnesstrack-736e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569517445383:android:865e594b308dec042835a2",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp_9iBb5Ya9fPvAc2MXgWnygY4-NwCRIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
